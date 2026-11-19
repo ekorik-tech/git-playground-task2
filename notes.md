@@ -29,3 +29,10 @@ My draft, "Fix search", says only what task was done. Claude's message explains 
 ## Validation
 
 Before the fix, one test passed and two search tests failed. After replacing exact equality with String.includes, all three tests passed.
+
+## Submission
+
+- Pull request: https://github.com/mate-academy/git-playground-task2/pull/390
+- Target repository: mate-academy/git-playground-task2
+- Base branch: main
+- Head branch: ekorik-tech:fix-search-contains (fork: ekorik-tech/git-playground-task2)
